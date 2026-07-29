@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">선풍기 vs 서큘레이터 구매 가이드 커버</title>
+  <desc id="desc">파란 배경 위에 선풍기와 서큘레이터를 단순 도형으로 그린 리뷰박스용 원본 커버 이미지</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e8f3ff"/>
+      <stop offset="100%" stop-color="#d4e7ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="250" cy="140" r="70" fill="#ffffff" opacity="0.55"/>
+  <circle cx="1370" cy="760" r="110" fill="#ffffff" opacity="0.35"/>
+  <text x="130" y="170" font-family="Apple SD Gothic Neo, Pretendard, Arial, sans-serif" font-size="34" fill="#2a4f84">리뷰박스 첫 발행</text>
+  <text x="130" y="265" font-family="Apple SD Gothic Neo, Pretendard, Arial, sans-serif" font-size="74" font-weight="700" fill="#0d2b52">선풍기 vs 서큘레이터</text>
+  <text x="130" y="340" font-family="Apple SD Gothic Neo, Pretendard, Arial, sans-serif" font-size="40" fill="#2b4d77">어떤 집에 무엇이 더 잘 맞는지 빠르게 정리</text>
+  <g transform="translate(980 180)">
+    <circle cx="0" cy="110" r="110" fill="#ffffff" stroke="#4b7cc2" stroke-width="18"/>
+    <circle cx="0" cy="110" r="28" fill="#4b7cc2"/>
+    <path d="M0 10 C45 30 72 85 36 122 C6 152 -22 154 -52 122 C-82 90 -62 35 0 10Z" fill="#7ea8df"/>
+    <path d="M-92 102 C-72 58 -18 38 16 68 C46 96 40 135 0 156 C-46 148 -110 142 -92 102Z" fill="#9bc0ef"/>
+    <path d="M58 52 C102 68 122 122 86 154 C56 180 10 170 -8 130 C-4 82 8 34 58 52Z" fill="#bfd8f8"/>
+    <rect x="-18" y="232" width="36" height="200" rx="18" fill="#4b7cc2"/>
+    <rect x="-82" y="418" width="164" height="32" rx="16" fill="#2c4f79"/>
+  </g>
+  <g transform="translate(1260 250)">
+    <rect x="-120" y="250" width="240" height="180" rx="34" fill="#ffffff" stroke="#4b7cc2" stroke-width="18"/>
+    <circle cx="0" cy="340" r="74" fill="#e8f3ff" stroke="#4b7cc2" stroke-width="16"/>
+    <circle cx="0" cy="340" r="18" fill="#4b7cc2"/>
+    <path d="M0 286 C30 302 42 338 18 360 C-2 380 -28 382 -48 360 C-66 338 -48 300 0 286Z" fill="#7ea8df"/>
+    <path d="M-54 336 C-36 306 0 294 22 314 C40 330 38 360 6 378 C-28 374 -70 368 -54 336Z" fill="#9bc0ef"/>
+    <path d="M34 304 C62 314 78 344 56 370 C38 390 8 384 -2 356 C2 324 8 296 34 304Z" fill="#bfd8f8"/>
+    <rect x="-96" y="438" width="192" height="16" rx="8" fill="#2c4f79" opacity="0.5"/>
+  </g>
+  <text x="130" y="470" font-family="Apple SD Gothic Neo, Pretendard, Arial, sans-serif" font-size="28" fill="#355c8f">풍량 도달 범위 · 소음 체감 · 청소 난이도 · 전기요금 감각</text>
+</svg>
